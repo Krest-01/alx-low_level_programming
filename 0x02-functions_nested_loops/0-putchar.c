@@ -1,4 +1,7 @@
 #include "main.h"
+/**
+ * This is  a putchar program
+ */
 
 int main(void)
 {
